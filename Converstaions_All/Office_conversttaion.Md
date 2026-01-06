@@ -57,13 +57,13 @@
   - Monday works but can we do it at 11:00 a.m. instead
 * 11:00 a.m. is perfect, should I book the conference room
   -  yes please and could you invite Tom and Susan from the design team
-*  of course I'll add them to the invite will an hour be enough ?
+* of course I'll add them to the invite will an hour be enough ?
   - I think so we just need to outline the initial steps 
 * great I'll prepare an agenda and send it out before  the weekend 
   - thanks Mark that'll help us stay focused 
 * no problem do you want to  include anything specific on the agenda
   - yes let's also discuss the budget and  timeline got it
-*  I'll make sure those points are included
+* I'll make sure those points are included
   - perfect, appreciate you organizing this Mark 
 * it's my pleasure I'll send the meeting invite shortly
   - thanks see see you then 
