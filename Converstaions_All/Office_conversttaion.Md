@@ -172,7 +172,7 @@
 * thanks Lisa your advice makes this easier
   -  happy to help Tom a good email is important
 
-## lesson 9: negotiating with clients listen and practice 
+## lesson 9: Negotiating with clients listen and practice 
 * hi Emily we need to negotiat with a client today.?
   - hi James what's the main issue.
 * they want a lower price on our services 
@@ -185,7 +185,7 @@
   - that's a good strategy it could be more Ben official for both
 * agreed but we need to stay firm on our quality standards 
   - absolutely quality should not be compromised
-*  I'll emphasize the value we bring to their business
+* I'll emphasize the value we bring to their business
   - that's important highlight our strengths
 * and if we can't agree .?
   - we can suggest revisiting the discussion in a few months
@@ -229,7 +229,7 @@
 * thanks Anna I want to be supportive not critical
   - you've got the right approach Jack
 
- ## Lesson 12 receiving feedback listen and practice
+## Lesson 12 receiving feedback listen and practice
 * hi Julia, I received your feedback on my project
   - hi Mark I hope it was helpful 
 * yes it was but I have some questions 
@@ -248,3 +248,101 @@
   - that would be excellent visuals can really enhance understanding
 * thanks for your guidance Julia 
   - you're welcome Mark I'm looking forward to the revised version 
+
+## Lesson 13: sharing office news listen and practice 
+* hi Emma have you heard the latest office news
+  - hi Daniel no I haven't what's up 
+* we're getting a new team leader next month 
+  - oh really who is
+* it it's Susan from the marketing department 
+  - that's interesting she has a great reputation 
+* yes and she brings a lot of experience 
+  - how will this change our team.?
+* I think it'll bring fresh ideas and perspectives 
+  - that sounds promising
+* definitely plus there might be some restructuring
+  - as long as it's for the better 
+* I agree change can be good 
+  - true it's always exciting to see new developments
+* absolutely let's keep an open mind 
+  - agreed thanks for the update Daniel
+
+## Lesson 14: reporting Progress listen and practice 
+* hi Sarah how's the project going 
+  - hi Chris it's on track, thanks
+* have you met the latest Milestones 
+  - yes the design phase is complete 
+* that's great news what's next .?
+  - we're starting the development phase 
+* now keep me updated on the progress
+  -  we'll do there might be some challenges ahead 
+* what kind of challenges.?
+ -  mainly technical but our team is capable
+*  good to hear do you need any additional resources.?
+  - not currently but I'll let you know if we do 
+* all right remember communication is key 
+  - Absolutely I'll ensure regular updates 
+* that's important for the Project's success
+  - definitely we're all committed to making this a sucess.
+
+## lesson 15: solving workplace issues listen and practice 
+* Hi Lisa there's an issue in the team I need help with 
+  - hi Paul what's the problem.?
+* there's a conflict between two team members 
+  - conflict, what's the cause 
+* it's about workload distribution.
+  - have you talked to them individually
+*  not yet I wanted to get your advice first
+  -  it's good to understand both sides first 
+* I plan to meet with them separately 
+  - that's a good approach keep an open mind 
+* after that should we have a joint discussion?
+  - yes but only after understanding the issue well 
+* I want to resolve this without escalating
+  -  that's the best way handle it calmly 
+* I'll try to mediate and find a fair solution 
+  - keep the team's Harmony in mind 
+* absolutely the team's Dynamics are important 
+  - let me  know if you need any assistance 
+* thanks  Lisa I appreciate your support
+  - you're welcome Paul let's keep our workplace positive 
+
+
+## lesson 16: making small talk listen and practice
+* hi Emily how was your weekend
+  - hi John it was good thanks went hiking and yours
+* relaxing I did some reading. what book are you currently into 
+  - I'm reading a novel about historical Rome
+* sounds fascinating I love history books what's the 
+  - title Empires and Emperors have you read it 
+* no but I'll add it to my list do you often hike
+  - yes almost, every weekend nature is refreshing 
+* I agree maybe I should join you sometime
+  - that would be great do you like the outdoors ?
+* I do photography is a hobby of mine.
+  - perfect there are some beautiful spots for photography 
+* I'll look forward to it what's your favorite Trail 
+  - there's one by the lake that's absolutely Serene
+* I've heard about it must be quite a view
+  - it's stunning I'll show you some photos sometime 
+* I'd like that thanks Emily
+  - anytime John let's plan for that hike
+
+## lesson 17: discussing company policy listen and practice
+ 
+* hi Sarah have you seen the new company policy updates 
+  - hi David yes I just read the email.
+* what do you think about the new remote work guidelines.?
+  - they seem flexible two days remote work per week 
+* yes it's a good balance do you think it will affect productivity
+  - Ithink it might actually improve it
+* agreed people might be more relaxed what about the dress code 
+  - it's more casual now which I think is a good move
+*  definitely Comfort can boost morale any thoughts on the new training programs.?
+  - they look comprehensive especially the leadership training 
+* I was thinking the same are you considering enrolling
+  - yes I'm interested in developing my skillsfurther
+* me too continuous learning is important
+  - absolutely it's good to see the company investing in US 
+* yes it shows they value their employees 
+  - indeed it's a positive step forward.
