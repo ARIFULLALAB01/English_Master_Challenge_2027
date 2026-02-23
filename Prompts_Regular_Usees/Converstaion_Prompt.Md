@@ -12,7 +12,7 @@ This version will give you high-quality, structured, and natural spoken English 
 >
 > My name is **Arif** and my friend’s name is **Vishnu**.
 >
-> Create a **realistic, natural, spoken-style conversation** between us on any practical real-life topic (health,).
+> Create a **realistic, natural, spoken-style conversation** between us on any practical real-life topic ( Topic Name: ).
 >
 > The conversation must contain **50 question-and-answer exchanges**, structured as follows:
 >
@@ -61,7 +61,6 @@ This version will give you high-quality, structured, and natural spoken English 
 > * Make it practical for real-life usage
 >
 > After completing the conversation, also:
->
 > * Highlight 10 new vocabulary words used
 > * Highlight 10 useful spoken phrases
 > * Give 5 confidence-building speaking tips
